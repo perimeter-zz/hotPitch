@@ -1,0 +1,8 @@
+[C[D[Dusing Python, write a program "hotPitch.py" which generates a PDF.  Program takes Voice Input, and prompts the user for this data: 
+Tech Skills, Soft Skills, Goals, Job Entry 1, Job Entry 2, Job Entry 3 
+Job Entries will be a Quadruple of Role, Company, Time Interval, Accomplishment.   
+Skills will have a rating 1 to 7 with 7 being the most proficient.
+Tech Skills will be displayed as hexagons. 
+Soft Skills will be displayed as Ovals.
+Goals will be displayed as Balloons
+Job Entries will  be layers of earth, with most recent on top.
